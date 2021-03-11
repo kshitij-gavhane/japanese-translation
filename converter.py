@@ -1,4 +1,6 @@
 # Created by kshitij
+#dont repost without permission
+
 
 inp= input("enter your name : ")
 name=inp.lower()
